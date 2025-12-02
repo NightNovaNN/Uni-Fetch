@@ -40,7 +40,6 @@ UniFetch includes a universal builder that:
 
 - Python 3.8+
 - Internet connection (for fetch operations)
-- Windows (Linux support planned)
 
 ---
 
@@ -197,5 +196,6 @@ UniFetch version 2.0.0
 
 MIT License
 Copyright (c) 2025 ISD NightNova
+
 
 
