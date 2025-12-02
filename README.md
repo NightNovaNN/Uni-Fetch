@@ -186,7 +186,6 @@ UniFetch version 2.0.0
 - GitHub Release auto-downloader
 - Automatic tool installation
 - Manifest-based version locking
-- Linux/macOS support
 - Self-updater using GitHub API
 - Turn UniFetch into a standalone `.exe`
 
@@ -196,6 +195,7 @@ UniFetch version 2.0.0
 
 MIT License
 Copyright (c) 2025 ISD NightNova
+
 
 
 
